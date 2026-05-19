@@ -146,4 +146,4 @@ EcoExtract aims to build a trusted circular electronics ecosystem where every di
 
 # License
 
-This project is intended for academic, innovation, and concept demonstration purposes.
+This project is an academic and concept-development work created by a student team for educational, research, and innovation purposes.
